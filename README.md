@@ -14,6 +14,6 @@ Key Learnings:
 
 This is part of my 30 Days of Python journey with **Indian Data Club**.
 
-[Click here to view the PY file](www.google.com)
+[Click here to view the PY file](https://github.com/JayaraniArunachalam/Inheritance-in-Python-OOP/blob/main/Day%209%20Object%20Oriented%20Programming%20(Part%202).py)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-23jun1990/)
